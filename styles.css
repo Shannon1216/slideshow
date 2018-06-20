@@ -79,7 +79,7 @@ html, body { background: #333 url("https://codepen.io/images/classy_fabric.png")
 
 .slide:hover + .nav label { opacity: 0.5; }
 
-.nav label:hover { opacity: 0.1; }
+.nav label:hover { opacity: 0.0; }
 
 .nav .next { right: 0; }
 
