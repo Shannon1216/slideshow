@@ -1,6 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Varela+Round);
-
-html, body { background: #a32020 url("https://codepen.io/images/classy_fabric.png"); }
+html, body { background: #a32020 url("bkgd.jpg");
+font-family:Georgia; }
 
 
 .headline {
